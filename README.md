@@ -23,5 +23,5 @@ CodeIgniter follows MVC (Model, View and Controllers)
 3. ### After login user can view the post  and get a flash message .
   <img src="images/afterlogin.png" width="700" height="300"> 
   
-4. ### user can comment in any post but  can delete/edit on only their own respective posts.
+4. ### user can comment in any post .but the post can be delete/edit of their own respective user.
    <img src="images/comment.png" width="700" height="300">
